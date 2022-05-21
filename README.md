@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruno Rodrigues
+- 👋 Olá sou Bruno Rodrigues
 - 👀 A procura de uma oportunidade no  mercado
 - 🎓 Estou cursando  engenharia de software
 - 📫 Contate -me : Bruninhobjjz@outlook.com 
