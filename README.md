@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
   
     <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/bruno-rodrigues-521683239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-    ![Snake animation](https://github.com/brunorodrigues/brunorodrigues/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/brunotito/brunotito/blob/output/github-contribution-grid-snake.svg)
  
 </div>
