@@ -1,30 +1,16 @@
-# 👋 Olá, eu sou Bruno Rodrigues
+## Olá! Eu sou o Bruno Rodrigues 🖐️
+[![Instagram](https://www.instagram.com/roodrigues90/)
 
-## 👨‍🎓 Sobre mim
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
 
-- 📚 Estudante de Engenharia de Software
-- 🌱 Atualmente aprendendo Front-end e Back-end
-- 💻 Apaixonado por tecnologia e programação
-- 🎯 Objetivo: Contribuir para a comunidade e aprimorar minhas habilidades
+## Tecnologias que eu uso no meu dia
 
-## 🛠️ Tecnologias e Ferramentas
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div><br/>
 
-- 🖥️ Conhecimento em: HTML, CSS, JavaScript
-- 🚀 Explorando: Java script e node js
-
-## 📫 Como me encontrar
-[Bruninhobjjz@outlook.com] / whatssap - 37998145387
-
-- LinkedIn--[https://www.linkedin.com/in/bruno-rodrigues-521683239/]
-
-## 🎓 Objetivos Acadêmicos
-
-- Conclui o curso de Node js e api rest 
-- Conclui curso de mongodb
-- Concluir curso de Api Rest
-
-## 😄 Curiosidades
-
-- Gosto de Viajar e Praticar Esporte
-- Sempre em busca de oportunidades de aprendizado e networking!
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
