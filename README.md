@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Bruno Rodrigues 🖐️
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/roodrigues90/)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=brunorodriguesdevs&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
