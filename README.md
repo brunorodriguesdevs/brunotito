@@ -13,6 +13,8 @@
 - 🚀 Explorando: Java script e node js
 
 ## 📫 Como me encontrar
+[Bruninhobjjz@outlook.com]
+whatssap - 37998145387
 
 - LinkedIn--[https://www.linkedin.com/in/bruno-rodrigues-521683239/]
 
