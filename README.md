@@ -18,7 +18,9 @@
 
 ## 🎓 Objetivos Acadêmicos
 
-- Conclui o curso de Node js e api rest
+- Conclui o curso de Node js e api rest 
+- Conclui curso de mongodb
+- Concluir curso de Api Rest
 
 ## 😄 Curiosidades
 
